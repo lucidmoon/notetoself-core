@@ -1,0 +1,2 @@
+notetoself-core
+===============
